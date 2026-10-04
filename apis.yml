@@ -39,7 +39,6 @@ apis:
   - name: Portfolio Optimizer
     description: "Portfolio analysis and optimization"
     humanURL: https://portfoliooptimizer.io/
-    baseURL: https://portfoliooptimizer.io/
     tags:
       - Finance
     properties:
